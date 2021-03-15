@@ -8,6 +8,6 @@ For the starter code given, I fixed the issues with the semantic HTML elements t
 
 
 
-Deployed url: https://cralport.github.io/
+Deployed url: https://cralport.github.io/horiseon2/
 
-GitHub Pages: https://github.com/cralport/cralport.github.io
+GitHub Pages: https://github.com/cralport/horiseon2
